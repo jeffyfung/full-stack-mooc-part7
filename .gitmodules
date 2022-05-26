@@ -1,0 +1,12 @@
+[submodule "full-stack-mooc-part5-bloglist-frontend"]
+	path = full-stack-mooc-part5-bloglist-frontend
+	url = https://github.com/jeffyfung/full-stack-mooc-part5-bloglist-frontend.git
+[submodule "full-stack-mooc-part7-ultimate-hook"]
+	path = full-stack-mooc-part7-ultimate-hook
+	url = https://github.com/jeffyfung/full-stack-mooc-part7-ultimate-hook.git
+[submodule "full-stack-mooc-part7-country-hook"]
+	path = full-stack-mooc-part7-country-hook
+	url = https://github.com/jeffyfung/full-stack-mooc-part7-country-hook.git
+[submodule "full-stack-mooc-part7-routed-anecdotes"]
+	path = full-stack-mooc-part7-routed-anecdotes
+	url = https://github.com/jeffyfung/full-stack-mooc-part7-routed-anecdotes.git
